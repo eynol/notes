@@ -1,5 +1,4 @@
 # Contents
-[index](../index.md)
 
 ## Front-End
 
