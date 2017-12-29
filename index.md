@@ -1,5 +1,5 @@
 # Contents
-[index](/)
+[index](../index.md)
 
 ## Front-End
 
