@@ -1,3 +1,6 @@
+
+[Return to content](../index.md)
+
 # USAGE
 
 ### :first-child
@@ -10,3 +13,5 @@
 Set the box-shadow to element's pseudo element and use 'opacity' in transitions to get a better performance.
 
 
+
+[Return to content](../index.md)
