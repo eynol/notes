@@ -19,5 +19,18 @@ function checkOverflow(el)
    return isOverflowing;
 }
 ```
+
+## [].every(anyFunction) === true
+
+```javascript
+ [].every(x=>x===2)  # true
+ [].every(String)   #true
+
+```
+
+[Ref:ecma-262-Array.prototype.every](https://www.ecma-international.org/ecma-262/5.1/#sec-15.4.4.16)
+
 ### reference:
-[determine-if-an-html-elements-content-overflows](https://stackoverflow.com/questions/143815/determine-if-an-html-elements-content-overflows)
+[Ref:determine-if-an-html-elements-content-overflows](https://stackoverflow.com/questions/143815/determine-if-an-html-elements-content-overflows)
+
+
