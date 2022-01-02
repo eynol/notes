@@ -1,3 +1,5 @@
+[Return to content](../index.md)
+
 # Detect text overflow
 ```javascript
 // Determines if the passed element is overflowing its bounds,
@@ -34,3 +36,4 @@ function checkOverflow(el)
 [Ref:determine-if-an-html-elements-content-overflows](https://stackoverflow.com/questions/143815/determine-if-an-html-elements-content-overflows)
 
 
+[Return to content](../index.md)
