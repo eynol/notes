@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python faq.md",
+                "file": "entware.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "python faq.md",
+            "file": "entware.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "python faq.md",
+            "file": "entware.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,13 +114,29 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "python faq.md"
+            "file": "entware.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
   "active": "c7b1f39267ffeb23",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "index.md",
+    "entware.md",
+    "未命名",
+    "Rust Faq.md",
+    "python faq.md"
+  ]
 }
