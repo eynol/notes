@@ -23,7 +23,7 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 如果您到 pip 默认源的网络连接较差，临时使用本镜像站来升级 pip：
 
-```
+```bash
 python -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple --upgrade pip
 ```
 
