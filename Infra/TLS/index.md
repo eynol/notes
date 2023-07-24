@@ -1,9 +1,8 @@
+# how to generate CA
 
 ref: [# Create Your Own SSL Certificate Authority for Local HTTPS Developmen](https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/)
 
 ref: [# Generate an Azure Application Gateway self-signed certificate with a custom root CA](https://learn.microsoft.com/en-us/azure/application-gateway/self-signed-certificates)
-
-# how to generate CA
 
 
 ```bash

@@ -1,4 +1,5 @@
 
+# oh-my-zsh
 
 ```bash
 git clone https://mirrors.tuna.tsinghua.edu.cn/git/ohmyzsh.git
