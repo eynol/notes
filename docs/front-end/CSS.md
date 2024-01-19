@@ -1,5 +1,14 @@
+---
+layout: default
+title: CSS
+parent: Web Develop
+nav_order: 1
+---
 
-[Return to content](docs/Infra/TLS/index.md)
+
+
+
+
 
 # USAGE
 
@@ -12,6 +21,3 @@
 ### box-shadow transition
 Set the box-shadow to element's pseudo element and use 'opacity' in transitions to get a better performance.
 
-
-
-[Return to content](docs/Infra/TLS/index.md)

@@ -1,3 +1,11 @@
+---
+layout: default
+title: git
+parent: SHELL
+nav_order: 2
+last_modified_date: 2021-03-03
+---
+
 ## rename users
 
 ```shell

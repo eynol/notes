@@ -1,3 +1,10 @@
+---
+layout: default
+title: Rust FAQ
+parent: Program Language
+nav_order: 2
+---
+
 # Rust FAQ
 
 ## install

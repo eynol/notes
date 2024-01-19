@@ -1,4 +1,10 @@
-# SED
+---
+layout: default
+title: sed
+parent: SHELL
+nav_order: 3
+---
+
 
 ### basic
 

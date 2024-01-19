@@ -1,3 +1,11 @@
+---
+layout: default
+title: entware
+parent: IOT
+nav_order: 2
+---
+
+
 # entware
 
 ```bash

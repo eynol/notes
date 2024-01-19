@@ -1,3 +1,10 @@
+---
+layout: default
+title: Python FAQ
+parent: Program Language
+nav_order: 1
+---
+
 # Python FAQ
 
 ## 切换国内源

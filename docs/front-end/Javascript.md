@@ -1,4 +1,10 @@
-[Return to content](docs/Infra/TLS/index.md)
+---
+layout: default
+title: Javascript
+parent: Web Develop
+nav_order: 2
+---
+
 
 # Detect text overflow
 ```javascript
@@ -35,5 +41,3 @@ function checkOverflow(el)
 ### reference:
 [Ref:determine-if-an-html-elements-content-overflows](https://stackoverflow.com/questions/143815/determine-if-an-html-elements-content-overflows)
 
-
-[Return to content](docs/Infra/TLS/index.md)

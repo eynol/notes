@@ -1,3 +1,9 @@
+---
+layout: default
+title: oh-my-zsh
+parent: SHELL
+nav_order: 1
+---
 
 # oh-my-zsh
 
