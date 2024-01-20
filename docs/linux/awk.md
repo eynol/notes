@@ -1,7 +1,7 @@
 ---
 layout: default
 title: awk
-parent: SHELL
+parent: LINUX
 nav_order: 1
 last_modified_date: 2024-01-20
 ---

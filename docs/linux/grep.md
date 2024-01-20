@@ -1,6 +1,6 @@
 ---
 layout: default
 title: grep
-parent: SHELL
+parent: LINUX
 nav_order: 1
 ---

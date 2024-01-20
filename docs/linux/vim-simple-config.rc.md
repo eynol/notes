@@ -1,7 +1,7 @@
 ---
 layout: default
 title: vimrc
-parent: SHELL
+parent: LINUX
 nav_order: 1
 ---
 

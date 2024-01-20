@@ -1,7 +1,7 @@
 ---
 layout: default
 title: oh-my-zsh
-parent: SHELL
+parent: LINUX
 nav_order: 1
 ---
 

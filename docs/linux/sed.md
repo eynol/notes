@@ -1,7 +1,7 @@
 ---
 layout: default
 title: sed
-parent: SHELL
+parent: LINUX
 nav_order: 3
 ---
 
