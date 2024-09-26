@@ -26,3 +26,21 @@ then
 fi' -- --all
 
 ```
+
+
+## git subtree 
+
+
+### add a subtree
+
+```
+git subtree add --prefix my-subdirectory http://mysite.com/my_other_project.git master --squash
+```
+
+
+### update a  subtree 
+
+```
+git subtree pull --prefix my-subdirectory http://mysite.com/my_other_project.git master --squash
+
+```
