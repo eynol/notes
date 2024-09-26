@@ -27,8 +27,23 @@ fi' -- --all
 
 ```
 
+## tips
 
-## git subtree 
+### sort branch by commit date
+```yaml
+branch.sort=-committerdate
+```
+
+### use different config by remote url
+
+```yml
+includeif.hasconfig:remote.*.url:https://github.com/**.path=~/.gitconfig.github
+includeif.hasconfig:remote.*.url:git@github.com:*/**.path=~/.gitconfig.github
+```
+
+
+# Subtree
+## git subtree  usage
 
 
 ### add a subtree
